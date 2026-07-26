@@ -1,212 +1,136 @@
 <div align="center">
 
-# Hey, I'm Ronak Chavda 👋
+# 👋 Hey, I'm Ronak Chavda
 
-### Developer • Automation Builder • Exploring AI Agents
+### I build tools that make computers do the boring work for us.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+tools+that+solve+real+problems.;Automating+the+boring+stuff.;Exploring+AI+Agents+%26+Automation.;Learning+by+building." alt="Typing SVG" />
+Developer from **Gujarat, India 🇮🇳** focused on automation, useful software, and AI-powered tools.
 
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=RonakChavda-Dev&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/RonakChavda-Dev?style=flat-square&label=Followers" alt="Followers" />
-<img src="https://img.shields.io/github/stars/RonakChavda-Dev?style=flat-square&label=Stars" alt="Stars" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Turning+repetitive+tasks+into+automation.;Building+small+tools+for+real+problems.;Exploring+what+AI+agents+can+do.;Learning+by+building+things." alt="Typing introduction" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=RonakChavda-Dev&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
+<img src="https://img.shields.io/github/followers/RonakChavda-Dev?style=for-the-badge&label=FOLLOWERS" alt="Followers">
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 🧑‍💻 What I Do
 
-```python
-ronak = {
-    "location": "Gujarat, India 🇮🇳",
-    "role": "Developer",
-    "focus": [
-        "Automation",
-        "AI Agents",
-        "Developer Tools",
-        "Web Development",
-        "Problem Solving"
-    ],
-    "currently_learning": [
-        "Advanced Python",
-        "REST APIs",
-        "Databases",
-        "Docker",
-        "AI / LLM Development"
-    ],
-    "goal": "Build useful software that solves real problems."
-}
-```
+I like finding tasks that are **slow, repetitive, or annoying** and figuring out how software can handle them instead.
 
-I enjoy building **automation tools, intelligent agents, developer utilities, and purpose-built software** for specific problems.
+That can mean a small program that organizes files, a website built for one particular job, or an AI agent that can use tools and complete a series of tasks.
 
-A lot of my projects begin with one question:
+> **My goal is simple: build software that is useful outside of the code editor.**
 
-> **"Can I automate this?"**
+<br>
 
-I'm currently focused on moving beyond small scripts and learning how to build **complete, reliable, and useful software systems**.
+## 🔭 What I'm Exploring
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Automation
+
+Making repetitive computer tasks happen automatically — from working with files and websites to connecting different services together.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Agents
+
+Exploring AI that can do more than answer questions: use tools, follow steps, work with information, and help complete tasks.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Applications
+
+Building websites where the interesting part isn't only how they look, but what they can actually **do** for the person using them.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Purpose-Built Tools
+
+I enjoy making small programs for very specific problems instead of trying to make one application that does everything.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 The Technology Behind My Projects
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=python,js,html,css,php,django,flask,git,github,vscode&perline=10&theme=dark" alt="Technology icons" />
 
-<img src="https://skillicons.dev/icons?i=python,js,php,html,css&theme=dark" alt="Languages" />
+<br><br>
 
-### Frameworks & Backend
-
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs&theme=dark" alt="Frameworks" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
-
-### Currently Learning
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,postgres,docker,linux&theme=dark" alt="Currently Learning" />
+**Python** · **JavaScript** · **HTML & CSS** · **PHP** · **Django** · **Flask** · **Git**
 
 </div>
 
----
+<br>
 
-## 🤖 What I Like Building
-
-```text
-🤖  Automation Tools & Agents
-⚙️  Purpose-Built Utilities
-🌐  Web Applications
-🔌  APIs & Integrations
-🕷️  Web Scraping & Data Extraction
-🧰  Developer Tools
-🧪  Experimental Projects
-```
-
-I especially like projects where software can take a repetitive or annoying task and make it happen **automatically**.
+For anyone who isn't a developer: these are simply some of the languages and tools I use to turn an idea into a working program or website.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Where I'm Heading
 
-| Area | Technologies / Concepts |
-| --- | --- |
-| 🐍 Python | Async Python • Testing • Better Project Architecture |
-| 🗄️ Databases | SQL • PostgreSQL • Redis |
-| 🔌 Backend | REST APIs • Authentication • WebSockets |
-| 🎨 Frontend | TypeScript • React • Next.js |
-| 📦 DevOps | Docker • Linux • GitHub Actions • CI/CD |
-| 🤖 AI | LLM APIs • Tool Calling • RAG • Agentic Workflows |
-| 🧠 Engineering | System Design • Clean Code • Software Architecture |
-
-> I'm not trying to learn everything at once — I'm learning technologies as I need them to build better projects.
-
----
-
-## 🚀 Developer Roadmap
-
-```text
-Python
-  │
-  ├──► Backend Development
-  │        │
-  │        ├──► APIs
-  │        └──► Databases
-  │
-  ├──► Automation
-  │        │
-  │        └──► AI / LLM Integration
-  │                  │
-  │                  └──► Agentic Systems
-  │
-  └──► Full-Stack Applications
-                │
-                └──► Larger & Scalable Systems
-```
-
----
-
-## 📌 Featured Projects
-
-### 🖱️ Mouse Position Resetter
-
-A lightweight automation utility that saves and restores mouse positions using a hotkey.
-
-`Python` • `PyAutoGUI` • `Automation`
-
-### 📂 File Tag Copier
-
-A utility that uses reference-folder logic to locate and copy matching files from another directory.
-
-`Python` • `File Automation`
-
-### 🛒 Amazon Price Tracker
-
-A price-tracking experiment that extracts product information from Amazon pages.
-
-`Python` • `BeautifulSoup` • `Requests` • `Web Scraping`
-
-### 🤖 Robot Test Beater
-
-An experimental automation project exploring browser interaction and automated challenge solving.
-
-`Python` • `Automation` • `Experimentation`
-
----
-
-## 📊 GitHub Stats
+I'm currently improving the parts of software development that let small projects grow into **complete applications**.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RonakChavda-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ronak's GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonakChavda-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=RonakChavda-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+| Learning | Why |
+| :--- | :--- |
+| 🗃️ **Databases** | Give applications reliable memory |
+| 🔌 **APIs** | Let different programs communicate |
+| 🐳 **Docker & Linux** | Run software reliably on other computers |
+| ⚛️ **Modern Web Development** | Build better interactive applications |
+| 🧪 **Testing & CI/CD** | Make software safer to change and improve |
+| 🧠 **Software Architecture** | Design larger projects without creating a mess |
+| 🤖 **LLMs & Agentic Systems** | Build AI that can interact with tools and workflows |
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RonakChavda-Dev&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RonakChavda-Dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonakChavda-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=RonakChavda-Dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 
 </div>
-
----
-
-## 💡 A Bit More About Me
-
-```javascript
-const ronak = {
-    name: "Ronak Chavda",
-    from: "Gujarat, India",
-
-    likes: [
-        "building useful things",
-        "automating repetitive tasks",
-        "experimenting with new ideas",
-        "learning by building"
-    ],
-
-    philosophy: "Build → Break → Learn → Improve → Repeat"
-};
-```
 
 ---
 
 <div align="center">
 
-### Build. Break. Learn. Improve. Repeat.
+### 💭 Build something → learn from it → make the next thing better.
 
-*Currently building my way toward bigger things.*
+I'm still learning, experimenting, and figuring out how far I can take an idea with code.
+
+<br>
+
+**Thanks for stopping by!**
 
 </div>
+
