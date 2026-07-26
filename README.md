@@ -143,7 +143,7 @@ A price-tracking experiment that extracts product information from Amazon pages.
 
 `Python` • `BeautifulSoup` • `Requests` • `Web Scraping`
 
-### 🤖 Robot Test Beater
+### 🤖 Robot Test Beater (In progress...)
 
 An experimental automation project exploring browser interaction and automated challenge solving.
 
