@@ -6,12 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+tools+that+solve+real+problems.;Automating+the+boring+stuff.;Exploring+AI+Agents+%26+Automation.;Learning+by+building." alt="Typing SVG" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=RonakChavda-Dev&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/RonakChavda-Dev?style=flat-square&label=Followers" alt="Followers" />
-<img src="https://img.shields.io/github/stars/RonakChavda-Dev?style=flat-square&label=Stars" alt="Stars" />
-
 </div>
 
 ---
@@ -180,26 +174,6 @@ An experimental automation project exploring browser interaction and automated c
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonakChavda-Dev&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
 
 </div>
-
----
-
-## 💡 A Bit More About Me
-
-```javascript
-const ronak = {
-    name: "Ronak Chavda",
-    from: "Gujarat, India",
-
-    likes: [
-        "building useful things",
-        "automating repetitive tasks",
-        "experimenting with new ideas",
-        "learning by building"
-    ],
-
-    philosophy: "Build → Break → Learn → Improve → Repeat"
-};
-```
 
 ---
 
