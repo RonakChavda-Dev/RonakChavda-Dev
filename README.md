@@ -1,159 +1,60 @@
 <div align="center">
 
-# Hey, I'm Ronak Chavda 👋
+# 👋 Hey, I'm [Your Name]
 
-### Developer • Automation Builder • Exploring AI Agents
+### Automation & Agent Builder · Gujarat, India 🇮🇳
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+tools+that+solve+real+problems.;Automating+the+boring+stuff.;Exploring+AI+Agents+%26+Automation.;Learning+by+building." alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=RonakChavda-Dev&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/RonakChavda-Dev?style=flat-square&label=Followers" alt="Followers" />
-<img src="https://img.shields.io/github/stars/RonakChavda-Dev?style=flat-square&label=Stars" alt="Stars" />
+*"I build things that do the boring work, so I don't have to."*
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 🧭 About Me
 
 ```python
-ronak = {
-    "location": "Gujarat, India 🇮🇳",
-    "role": "Developer",
-    "focus": [
-        "Automation",
-        "AI Agents",
-        "Developer Tools",
-        "Web Development",
-        "Problem Solving"
-    ],
-    "currently_learning": [
-        "Advanced Python",
-        "REST APIs",
-        "Databases",
-        "Docker",
-        "AI / LLM Development"
-    ],
-    "goal": "Build useful software that solves real problems."
+me = {
+    "role": "Developer / Automation Enthusiast",
+    "based_in": "Gujarat, India",
+    "focus": ["Automation tools", "AI agents", "Custom project-specific tools"],
+    "philosophy": "If I do it more than twice, I automate it.",
 }
 ```
 
-I enjoy building **automation tools, intelligent agents, developer utilities, and purpose-built software** for specific problems.
-
-A lot of my projects begin with one question:
-
-> **"Can I automate this?"**
-
-I'm currently focused on moving beyond small scripts and learning how to build **complete, reliable, and useful software systems**.
+I'm a developer focused on building **automation tools, agents, and purpose-built utilities** for specific projects. I like taking a repetitive or messy workflow and turning it into something that just... runs by itself.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 What I'm Building
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,php,html,css&theme=dark" alt="Languages" />
-
-### Frameworks & Backend
-
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs&theme=dark" alt="Frameworks" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
-
-### Currently Learning
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,postgres,docker,linux&theme=dark" alt="Currently Learning" />
-
-</div>
+- 🤖 **Automation scripts & bots** — task runners, schedulers, scrapers, file/data pipelines
+- 🧠 **AI Agents** — tools that make decisions or take actions with minimal input
+- 🛠️ **Project-specific utilities** — one-off tools built to solve a real problem for a real project
+- 🌐 **Web apps** — dashboards and small full-stack apps to wrap the above in a usable interface
 
 ---
 
-## 🤖 What I Like Building
+## 🧰 Tech Stack
 
-```text
-🤖  Automation Tools & Agents
-⚙️  Purpose-Built Utilities
-🌐  Web Applications
-🔌  APIs & Integrations
-🕷️  Web Scraping & Data Extraction
-🧰  Developer Tools
-🧪  Experimental Projects
-```
-
-I especially like projects where software can take a repetitive or annoying task and make it happen **automatically**.
+| Layer | Technology |
+|---|---|
+| **Languages** | Python, JavaScript, HTML, CSS, PHP |
+| **Backend / Frameworks** | Django, Flask, PHP |
+| **Frontend** | HTML, CSS, JavaScript |
+| **Automation / Scripting** | Python (requests, BeautifulSoup, Selenium, schedulers) |
+| **Tools** | Git, GitHub, VS Code |
+| **Deployment** | GitHub Pages, Render / Vercel *(as needed)* |
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning / Leveling Up
 
-| Area | Technologies / Concepts |
-| --- | --- |
-| 🐍 Python | Async Python • Testing • Better Project Architecture |
-| 🗄️ Databases | SQL • PostgreSQL • Redis |
-| 🔌 Backend | REST APIs • Authentication • WebSockets |
-| 🎨 Frontend | TypeScript • React • Next.js |
-| 📦 DevOps | Docker • Linux • GitHub Actions • CI/CD |
-| 🤖 AI | LLM APIs • Tool Calling • RAG • Agentic Workflows |
-| 🧠 Engineering | System Design • Clean Code • Software Architecture |
-
-> I'm not trying to learn everything at once — I'm learning technologies as I need them to build better projects.
-
----
-
-## 🚀 Developer Roadmap
-
-```text
-Python
-  │
-  ├──► Backend Development
-  │        │
-  │        ├──► APIs
-  │        └──► Databases
-  │
-  ├──► Automation
-  │        │
-  │        └──► AI / LLM Integration
-  │                  │
-  │                  └──► Agentic Systems
-  │
-  └──► Full-Stack Applications
-                │
-                └──► Larger & Scalable Systems
-```
-
----
-
-## 📌 Featured Projects
-
-### 🖱️ Mouse Position Resetter
-
-A lightweight automation utility that saves and restores mouse positions using a hotkey.
-
-`Python` • `PyAutoGUI` • `Automation`
-
-### 📂 File Tag Copier
-
-A utility that uses reference-folder logic to locate and copy matching files from another directory.
-
-`Python` • `File Automation`
-
-### 🛒 Amazon Price Tracker
-
-A price-tracking experiment that extracts product information from Amazon pages.
-
-`Python` • `BeautifulSoup` • `Requests` • `Web Scraping`
-
-### 🤖 Robot Test Beater
-
-An experimental automation project exploring browser interaction and automated challenge solving.
-
-`Python` • `Automation` • `Experimentation`
+- 🔗 **AI Agent frameworks** — LangChain, function/tool calling, multi-agent workflows
+- 🗄️ **Databases** — SQL / PostgreSQL for real backend data handling
+- 🐳 **Docker** — containerizing tools so they run anywhere
+- ⚡ **APIs & Webhooks** — connecting tools together instead of building everything from scratch
+- 🧪 **Testing** — writing proper tests so automations don't silently break
+- ☁️ **Cloud basics** — deploying agents/automations so they run 24/7, not just on my machine
 
 ---
 
@@ -161,52 +62,42 @@ An experimental automation project exploring browser interaction and automated c
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RonakChavda-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ronak's GitHub Stats" />
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonakChavda-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true)
 
-<br/><br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true)
 
-<img src="https://streak-stats.demolab.com?user=RonakChavda-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+> Replace `your-github-username` above with your actual GitHub username to activate these live stat cards.
+
+---
+
+## 📌 Pinned / Featured Projects
+
+<!-- Add your own project cards here, same format as below -->
+
+| Project | Description |
+|---|---|
+| 🔧 **[Project Name]** | Short one-line description of what it automates or solves. |
+| 🤖 **[Agent Name]** | What decisions/actions this agent handles. |
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-your--username-black?style=for-the-badge&logo=github)](https://github.com/your-github-username)
+[![Email](https://img.shields.io/badge/Email-your--email%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RonakChavda-Dev&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 💡 A Bit More About Me
-
-```javascript
-const ronak = {
-    name: "Ronak Chavda",
-    from: "Gujarat, India",
-
-    likes: [
-        "building useful things",
-        "automating repetitive tasks",
-        "experimenting with new ideas",
-        "learning by building"
-    ],
-
-    philosophy: "Build → Break → Learn → Improve → Repeat"
-};
-```
-
----
-
-<div align="center">
-
-### Build. Break. Learn. Improve. Repeat.
-
-*Currently building my way toward bigger things.*
+💡 *Always automating, always building.*
 
 </div>
